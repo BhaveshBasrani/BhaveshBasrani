@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an all purpose bot.
 - 📫 Reach me at my mail on bhaveshkumarbasrani@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: My crush is anvita... lol jk
+
 
 <!---
 BhaveshBasrani/BhaveshBasrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
